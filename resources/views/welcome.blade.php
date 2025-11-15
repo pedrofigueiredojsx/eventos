@@ -420,7 +420,7 @@
 
 
     @php
-        $name = 'Pedro';
+        $name = "Pedro";
         echo $name;
     @endphp
 
